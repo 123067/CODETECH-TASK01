@@ -26,6 +26,9 @@ digitalWrite(13, LOW);
 delay(1000); // wait for a second
 
 }
+
+
+
 Project- Blinking of led using ardiuno uno.
 
 Objectives- The objectives of this project to get the badic understanding of embedded design by making the connections of LED with ardiuno uno .
