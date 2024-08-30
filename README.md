@@ -5,6 +5,8 @@ ID-CT08DS6079
 DOMAIN-EMBEDDED SYSTEMS 
 DURATION-1 AUGUST TO 1 SEPTEMBER
 
+/* this task is about blinking of led interfacing with ardiuno uno*/
+
 
 void setup() {
 
